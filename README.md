@@ -16,7 +16,7 @@ Tudo isso usando os principais conceitos do ReactJS - Components; Hooks; Router 
 ![Web 1](https://github.com/CrisDev83/assets-projects/blob/master/infofilmes.png)
 
 ## Layout Responsicvo
-![Web 1](https://github.com/CrisDev83/assets-projects/blob/master/infofilmes.png)
+![Mobile 1](https://github.com/CrisDev83/assets-projects/blob/master/infofilmesmobile.jpeg)
 
 # Tecnologias utilizadas
 ## Ferramentas 
