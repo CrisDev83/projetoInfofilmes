@@ -33,7 +33,7 @@ Tudo isso usando os principais conceitos do ReactJS - Components; Hooks; Router 
 - react-router-dom
 
 ## Back end
-- API TMDB (The Movie Databse.Org)
+- API TMDB (The Movie Database.Org)
 
 ## Implantação em produção
 - Netlify
@@ -43,7 +43,7 @@ Tudo isso usando os principais conceitos do ReactJS - Components; Hooks; Router 
 ## Front end web
 Pré-requisitos mínimos: node v12.13.0 / npm v6.12.0
 
-```bash
+```zsh
 # clonar repositório
 git clone https://github.com/devsuperior/sds1-wmazoni
 
