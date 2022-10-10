@@ -4,52 +4,46 @@
 
 # Sobre o projeto
 
-https://wmazoni-sds1.netlify.app
+https://effulgent-melba-4ef457.netlify.app
 
-Vendas Code é uma aplicação full stack, construído seguindo as intruções do Professor Hugo Vasconselos seguindo as aulas dos modolos [Desenvolvimento de Sistemas em C#](https://www.udemy.com/course/desenvolvimento-de-sistemas-com-csharp/learn/lecture/7191676?start=15#overview), [Sistema de Comercio em C#](https://www.udemy.com/course/sistema-de-comercio-com-c-sharp-sql/learn/lecture/7209968?start=15#notes).
+Info Filmes é uma aplicação, construida em ReactJS totalmenmete RESPONSIVA, faz parte dos meus estudos autodidatas de React. O Projeto foi implementado utilizando as orienteações do Professor Mateus Batitsti seguindo sua aula online: [PROJETO DE FILMES COM REACT E API DO TMDB (REACT ROUTER, REACT HOOKS)](https://www.youtube.com/watch?v=XqxUHVVO7-U&t=141s).
 
-Esse sistema atende todo os tipos de comércios, pois tem uma ampla estutura que pode atender desde um super mercado até uma fabrica de laje, o vendasCode conta com serviços de gerenciamento de estoque, clásificação de estoque e varias implemetações criadas para facílidar a vida do usuário. Tudo isso conectado ao um banco de dados local
+Esse sistema consome uma API externa do site [The Movie Database](https://www.themoviedb.org/?language=pt-BR). Buscando informações através do (FECTH) dos filmes mais bem classificados no site. Ao encontrar o filme que nos interessa, podemos clicar em detalhes e saber mais informações sobre o filme, como: descrição, orçamento e receita. Também é possível pesquisar por filmes ou gêneros e receber listas com esses filtros.
 
-Tudo isso feito de maneira robusta e completa!
+Tudo isso usando os principais conceitos do ReactJS - Components; Hooks; Router e outros!
 
 ## Layout Desktop
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+![Web 1](https://github.com/CrisDev83/assets-projects/blob/master/infofilmes.png)
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+## Layout Responsicvo
+![Web 1](https://github.com/CrisDev83/assets-projects/blob/master/infofilmes.png)
 
 # Tecnologias utilizadas
 ## Ferramentas 
-- IDE: Visual Studio Profissional
-- Banco de Dados: Microsoft SQL Sever Management 2019
-
-## Back end
-- C# (CSharp)
-- SQL Básico
+- VSCODE - Visual Studio Code
 
 ## Front end
-- Windows Form (Formulário do Windows)
+- HTML \ CSS \ JS
+- JSX
+- ReactJS
+- Vite
+
+## Dependencies
+- react
+- react-icons
+- react-dom
+- react-router-dom
+
+## Back end
+- API TMDB (The Movie Databse.Org)
 
 ## Implantação em produção
-- Desktop
+- Netlify
 
 # Como executar o projeto
 
-## Back end
-Pré-requisitos: Java 11
-
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
-# entrar na pasta do projeto back end
-cd backend
-
-# executar o projeto
-./mvnw spring-boot:run
-```
-
 ## Front end web
-Pré-requisitos: npm / yarn
+Pré-requisitos mínimos: node v12.13.0 / npm v6.12.0
 
 ```bash
 # clonar repositório
@@ -59,14 +53,14 @@ git clone https://github.com/devsuperior/sds1-wmazoni
 cd front-web
 
 # instalar dependências
-yarn install
+npm install
 
 # executar o projeto
-yarn start
+npm run dev 
 ```
 
 # Autor
 
-Adolfo Nalin Junior
+Cris Vieira
 
-https://www.linkedin.com/in/wmazoni
+
