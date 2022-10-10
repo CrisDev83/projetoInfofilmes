@@ -1,0 +1,3 @@
+Versão node - v12.13.0
+
+Tecnologis usadas - ReactJs, Html, Css, Vite
