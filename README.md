@@ -46,7 +46,7 @@ Pré-requisitos mínimos: node v12.13.0 / npm v6.12.0
 
 ```zsh
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/CrisDev83/projetoInfofilmes.git
 
 # entrar na pasta do projeto front end web
 cd front-web
