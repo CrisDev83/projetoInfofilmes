@@ -17,8 +17,10 @@ Tudo isso usando os principais conceitos do ReactJS - Components; Hooks; Router 
 
 - Componentização
 - Consumir uma API externa
-- Uso de fetch para chamada da API
+- Requisição com fetch
 - useState
+- useEffect
+- useParams
 
 
 ## Layout Desktop
