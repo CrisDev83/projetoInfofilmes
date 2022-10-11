@@ -32,6 +32,8 @@ Tudo isso usando os principais conceitos do ReactJS - Components; Hooks; Router 
 # Tecnologias utilizadas
 ## Ferramentas 
 - VSCODE - Visual Studio Code
+- Git
+- GitHub
 
 ## Front end
 - HTML \ CSS \ JS
