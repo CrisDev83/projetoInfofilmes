@@ -15,12 +15,7 @@ Tudo isso usando os principais conceitos do ReactJS - Components; Hooks; Router 
 
 ## O Que aprendi?
 
-- Componentização
-- Consumir uma API externa
-- Requisição com fetch
-- useState
-- useEffect
-- useParams
+Componentização; Consumir uma API externa; Requisição com fetch; useState; useEffect; useParams.
 
 
 ## Layout Desktop
