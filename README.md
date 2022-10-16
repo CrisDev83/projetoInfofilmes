@@ -13,7 +13,7 @@ Esse sistema consome uma API externa do site [The Movie Database](https://www.th
 Tudo isso usando os principais conceitos do ReactJS - Components; Hooks; Router e outros!
 
 
-## O Que aprendi
+## O Que aprendi?
 
 - Componentização
 - Consumir uma API externa
@@ -26,7 +26,7 @@ Tudo isso usando os principais conceitos do ReactJS - Components; Hooks; Router 
 ## Layout Desktop
 ![Web 1](https://github.com/CrisDev83/assets-projects/blob/master/infofilmes.png)
 
-## Layout Mobile
+## Layout Responsivo
 ![Mobile 1](https://github.com/CrisDev83/assets-projects/blob/master/filmesmobile.png)
 
 # Tecnologias utilizadas
